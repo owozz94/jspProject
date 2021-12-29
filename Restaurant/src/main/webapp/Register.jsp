@@ -9,7 +9,7 @@
 <body>
 	<h2>맛집 등록</h2>
 	<form action="RegisterProc.jsp" method="post">
-	<table width="500" border="1">
+	<table border="1">
 	<tr height="50">
 		<td align="center" width="120">식당이름 </td>
 		<td align="center" width="200"><input type="text" name="Name" placeholder="식당이름을 입력하세요" size="40"></td>
